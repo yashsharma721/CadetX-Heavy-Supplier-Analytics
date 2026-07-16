@@ -1,0 +1,30 @@
+# CadetX Heavy Supplier Analytics – Week 2
+
+## Project Overview
+This repository contains my Week 2 SQL work completed as part of the CadetX Virtual Work Experience Program. The focus of this week was analyzing Heavy Supplier, Inventory, and Warehouse datasets using MySQL to generate business insights.
+
+## Work Completed
+- Imported datasets into MySQL.
+- Performed SQL analysis on:
+  - Branches
+  - Customers
+  - Products
+  - Suppliers
+  - Inventory Master
+  - Purchase Orders Header
+- Wrote business-oriented SQL queries.
+- Generated analytical insights from the datasets.
+
+## Files Included
+- `Week2_SQL_Queries.sql`
+- `README.md`
+
+## Tools Used
+- MySQL Workbench
+- GitHub
+
+
+## Status
+Week 2 SQL Analysis Completed
+
+
