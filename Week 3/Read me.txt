@@ -1,0 +1,38 @@
+# CadetX Heavy Supplier Analytics – Week 3
+
+## Project Overview
+This repository contains my Week 3 SQL work completed as part of the CadetX Virtual Work Experience Program. The focus of this week was analyzing the remaining business datasets using MySQL to generate meaningful business insights.
+
+## Work Completed
+- Performed SQL analysis on:
+  - Purchase Orders Lines
+  - Sales Orders Header
+  - Sales Orders Lines
+  - Stock Ledger
+  - Invoices
+  - Payments
+- Wrote business-oriented SQL queries.
+- Generated analytical insights from the datasets.
+
+## Files Included
+- `Week3_SQL_Queries.sql`
+- `README.md`
+
+## Tools Used
+- MySQL Workbench
+- GitHub
+
+## Skills Demonstrated
+- SQL
+- Database Management
+- Data Analysis
+- Sales Analytics
+- Financial Analytics
+- Inventory & Stock Analysis
+
+## Status
+Week 3 SQL Analysis Completed
+
+---
+**CadetX Virtual Work Experience**  
+**Heavy Supplier, Inventory & Warehouse Analytics**
