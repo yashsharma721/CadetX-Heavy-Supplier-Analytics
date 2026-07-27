@@ -1,0 +1,29 @@
+# CadetX Heavy Supplier Analytics – Week 4
+
+## Project Overview
+This repository contains my Week 4 SQL work completed as part of the CadetX Virtual Work Experience Program. The focus of this week was performing relationship analysis using SQL JOINS to combine multiple datasets and generate meaningful business insights.
+
+## Work Completed
+- Performed SQL INNER JOIN analysis on:
+  - Customers & Sales Orders Header
+  - Branches & Sales Orders Header
+  - Products & Sales Orders Lines
+  - Suppliers & Purchase Orders Header
+- Wrote 6 business-oriented JOIN queries.
+- Analysed customer sales, branch performance, product sales, supplier purchase orders, and business relationships across datasets.
+
+## Files Included
+- `SQL_Joins`
+- `README.md`
+
+## Tools Used
+- MySQL Workbench
+- GitHub
+
+
+## Status
+Week 4 SQL JOIN Analysis (Queries 1–6) Completed
+
+---
+**CadetX Virtual Work Experience**  
+**Heavy Supplier, Inventory & Warehouse Analytics**
