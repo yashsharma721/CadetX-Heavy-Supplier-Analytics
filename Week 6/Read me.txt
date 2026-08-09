@@ -1,0 +1,46 @@
+# CadetX Heavy Supplier Analytics – Week 6
+
+## Project Overview
+This repository contains my Week 6 work completed as part of the CadetX Virtual Work Experience Program. This week focused on writing SQL JOIN queries to analyse customer invoices, branch invoices, inventory stock, supplier purchase orders, sales orders, and payment records.
+
+## Tasks Completed
+- Top 10 Customers by Invoice Value
+- Top 10 Branches by Invoice Value
+- Top 10 Products by Current Stock
+- Top 10 Supplier Purchase Orders by Total Cost
+- Top 10 Customer Sales Orders by Grand Total
+- Invoice and Payment Analysis
+
+## Objectives
+- Perform business analysis using SQL JOIN operations.
+- Retrieve and compare sales, purchase, inventory, and payment data.
+- Generate meaningful business insights from multiple datasets.
+
+## Tables Used
+- Customers
+- Invoices
+- Branches
+- Products
+- Inventory Master
+- Suppliers
+- Purchase Orders Header
+- Sales Orders Header
+- Payments
+
+## SQL Concepts Used
+- JOIN
+- GROUP BY
+- ORDER BY
+- SUM()
+- LIMIT
+
+## Tools Used
+- MySQL Workbench
+- GitHub
+
+## Files Included
+- Week6_SQL_Queries.sql
+- README.md
+
+## Status
+Week 6 Completed
