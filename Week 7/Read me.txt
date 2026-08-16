@@ -1,0 +1,29 @@
+# CadetX Heavy Supplier Analytics – Week 5
+
+## Project Overview
+This repository contains my Week 5 work completed as part of the CadetX Virtual Work Experience Program. This week focused on writing and executing advanced SQL JOIN queries to combine data from multiple tables for business analysis.
+
+## Tables Used
+- Customers
+- Sales Orders Header
+- Sales Orders Lines
+- Products
+- Branches
+
+## SQL Concepts Used
+- JOINS
+- Filtering
+- ORDER BY
+- Aggregate Functions
+
+## Tools Used
+- MySQL Workbench
+- GitHub
+
+
+## Files Included
+- SQL JOINS 2
+- README.md
+
+## Status
+Week 5 Completed
