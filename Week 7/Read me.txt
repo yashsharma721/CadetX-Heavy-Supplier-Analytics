@@ -1,0 +1,45 @@
+CadetX Heavy Supplier Analytics – Week 7
+
+Project Overview
+
+This repository contains my Week 7 work completed as part of the CadetX Virtual Work Experience Program. This week focused on developing an interactive Sales Analysis Dashboard using Microsoft Power BI to analyze sales performance and generate meaningful business insights.
+
+Dashboard Features
+
+- Total Sales KPI
+- Total Orders KPI
+- Total Customers KPI
+- Average Order Value KPI
+- Total Sales by Branch
+- Top 10 Customers by Sales
+- Top 10 Products by Sales
+- Monthly Sales Trend
+- Order Status Distribution
+
+Datasets Used
+
+- Branches
+- Customers
+- Products
+- Sales Orders Header
+- Sales Orders Lines
+
+Tools Used
+
+- Microsoft Power BI
+- Microsoft Excel
+- GitHub
+
+Files Included
+
+- "Week7_PowerBI_Dashboard.pbix"
+- "README.md"
+
+Status
+
+Week 7 Sales Analysis Dashboard Completed
+
+---
+
+CadetX Virtual Work Experience
+Heavy Supplier, Inventory & Warehouse Analytics
