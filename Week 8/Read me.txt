@@ -1,0 +1,34 @@
+CadetX Heavy Supplier Analytics – Week 8
+
+Project Overview
+This repository contains my Week 8 work completed as part of the CadetX Virtual Work Experience Program. This week focused on developing an interactive Inventory Analysis Dashboard using Microsoft Power BI to analyze inventory levels, branch-wise stock, product stock, and inventory value.
+
+Dashboard Features
+Total Products KPI
+Total Current Stock KPI
+Low Stock Products KPI
+Top 10 Products by Current Stock
+Total Stock by Branch
+Top 10 Products by Inventory Value
+Product Slicer
+Branch Slicer
+
+Datasets Used
+Products
+Inventory Master
+Branches
+
+Tools Used
+Microsoft Power BI
+Microsoft Excel
+GitHub
+
+Files Included
+Week8_PowerBI_Dashboard.pbix
+README.md
+
+Status
+Week 8 Inventory Analysis Dashboard Completed
+
+CadetX Virtual Work Experience
+Heavy Supplier, Inventory & Warehouse Analytics
